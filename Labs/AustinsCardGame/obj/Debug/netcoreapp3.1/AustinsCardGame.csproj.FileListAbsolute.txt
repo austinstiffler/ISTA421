@@ -1,0 +1,13 @@
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\bin\Debug\netcoreapp3.1\AustinsCardGame.exe
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\bin\Debug\netcoreapp3.1\AustinsCardGame.deps.json
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\bin\Debug\netcoreapp3.1\AustinsCardGame.runtimeconfig.json
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\bin\Debug\netcoreapp3.1\AustinsCardGame.runtimeconfig.dev.json
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\bin\Debug\netcoreapp3.1\AustinsCardGame.dll
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\bin\Debug\netcoreapp3.1\AustinsCardGame.pdb
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\obj\Debug\netcoreapp3.1\AustinsCardGame.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\obj\Debug\netcoreapp3.1\AustinsCardGame.AssemblyInfoInputs.cache
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\obj\Debug\netcoreapp3.1\AustinsCardGame.AssemblyInfo.cs
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\obj\Debug\netcoreapp3.1\AustinsCardGame.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\obj\Debug\netcoreapp3.1\AustinsCardGame.dll
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\obj\Debug\netcoreapp3.1\AustinsCardGame.pdb
+C:\Users\austi\MSSA2021\ISTA421\Labs\AustinsCardGame\obj\Debug\netcoreapp3.1\AustinsCardGame.genruntimeconfig.cache

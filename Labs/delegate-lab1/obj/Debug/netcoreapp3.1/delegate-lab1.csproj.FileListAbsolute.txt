@@ -1,0 +1,13 @@
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\bin\Debug\netcoreapp3.1\delegate-lab1.exe
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\bin\Debug\netcoreapp3.1\delegate-lab1.deps.json
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\bin\Debug\netcoreapp3.1\delegate-lab1.runtimeconfig.json
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\bin\Debug\netcoreapp3.1\delegate-lab1.runtimeconfig.dev.json
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\bin\Debug\netcoreapp3.1\delegate-lab1.dll
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\bin\Debug\netcoreapp3.1\delegate-lab1.pdb
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\obj\Debug\netcoreapp3.1\delegate-lab1.csprojAssemblyReference.cache
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\obj\Debug\netcoreapp3.1\delegate-lab1.AssemblyInfoInputs.cache
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\obj\Debug\netcoreapp3.1\delegate-lab1.AssemblyInfo.cs
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\obj\Debug\netcoreapp3.1\delegate-lab1.csproj.CoreCompileInputs.cache
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\obj\Debug\netcoreapp3.1\delegate-lab1.dll
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\obj\Debug\netcoreapp3.1\delegate-lab1.pdb
+C:\Users\austi\MSSA2021\ISTA421\Labs\delegate-lab1\obj\Debug\netcoreapp3.1\delegate-lab1.genruntimeconfig.cache
