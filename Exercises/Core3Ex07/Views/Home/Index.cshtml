@@ -1,0 +1,36 @@
+@model Core3Ex07.Models.MyFamily
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Core3 Exercise 07</title>
+</head>
+<body>
+    <div>
+        <h2>Austin's Family</h2>
+        <table>
+            <tr>
+                <td><b>Wife - </b></td>
+                <td>@Model.Wife</td>
+            </tr>
+
+            <tr>
+                <td><b>Dog - </b></td>
+                <td>@Model.Dog</td>
+            </tr>
+
+            <tr>
+                <td><b>Mom - </b></td>
+                <td>@Model.Mom</td>
+            </tr>
+            <tr>
+                <td><b>Dad - </b></td>
+                <td>@Model.Dad</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
